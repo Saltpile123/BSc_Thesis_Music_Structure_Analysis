@@ -1,0 +1,80 @@
+From the results I reported and the discussion thereof, I will propose future research that can be performed to firstly improve the architectures I introduced, and secondly advance the current state-of-the-art of music structure analysis, with the insights gained in this research. I will also discuss the consequences of these insights gained and the proposed future research in the context of artificial intelligence.
+
+
+\section{Model improvements}
+As mentioned in \autoref{ch:discussion}, the CNN model performed better than the LSTM model. I also mentioned that despite this preliminary difference between the models, both prove to be quite powerful already. In this next section I will propose some future research that can be performed to improve both architectures.
+
+\subsection{Hyperparameters and Layout}
+One of the most important aspects of a neural network are its hyperparameters and layout. Although there are many possible values for the hyperparameters I listed, near infinite amount of possible layouts are possible; more or less hidden layers can be added, the amount of neurons per layer can be differed or a bias can be added to each layer. 
+
+For this thesis I have tried to create an as simple layout for each architecture, without letting the layout in itself be the bottleneck for each architecture. To achieve this I have tried to create a layout per architecture that kind of resembles a funnel structure. I then let the values of each hyperparameter define the actual performance of each architecture. One small sign that may indicate that the layout was of decent size is the better performance of models with less neurons in the first layer.\\
+Although more time is always beneficial when trying to find an optimal combination of hyperparameter values I, in my opinion, think that a sufficient amount of values were tested. This research has given, among two working models, at least a glimpse of the true performance of an optimal layout for each architecture as well as enough reason to find such a layout.
+
+As future research I propose more sophisticated modifications to both proposed architectures, like adding biases, trying more activation functions or testing different optimizers. It may also be beneficial to create more relevant layouts for each architecture; this may include adding or removing hidden layers, bagging models, trying more neuron counts, or even changing some neurons into other types of neurons.
+
+\subsection{Input Features}
+Another interesting part of future research will be to find better input features, or, at least, modify the existing features. I suggest this future research based on the final input used by both final models: the CQT and Tempogram. Considering the fact that these features were the top two features regarding their feature vector length, may indicate that both models are benefitted more by more data describing a beat than for example compact features that may express more information per scalar.
+
+One way to test this could be by using a Mel Spectrogram as input (as done in for example \cite{Grill2015music,Schluter2013musical}). Not only extending the feature vector length can improve the performance, also extending the time context can improve results. \textcite{Grill2015music} show that using a longer time context for their self-similarity lag matrix improves performance. Using features with shorted feature vector lengths may then again be used in combination with a longer time context. This will especially be of great benefit for a convolutional as well as a long short-term memory network because of their great performance on big images and longer sequence context respectively. A combination of a long and short time context features combined can also improve results \cite{Grill2015music2}. 
+
+Another addition to the time context of the features, could be to include the location of the beat that has to be classified in the song. This has to be some measure in proportion to the total length of a song, since in some songs the, for example, intro may be very long (\textit{Xanadu} by Rush). This also applies in general to relatively long songs (\textit{2112} by Rush). It, however, has to be seen how much one scalar adds to a quite big input size, but it may function as a bias for the input.
+
+\subsection{Architecture Specific Research}
+Although the long short-term memory architecture performed worse than the convolutional architecture, I expect that with more effort more aimed at LSTM specific properties may greatly increase its performance. The input features may be used in a similar way for both the CNN and LSTM models, they both still work in a very different way. It may therefore be of more benefit for a LSTM architecture to use only the features of the previous and current beat while trying to classify the current beat (similar to how a LSTM is used in word prediction), or to use smaller features while increasing the time context.
+
+In a similar way the convolutional architecture may make leaps in performance if more specific CNN properties are considered. This may include the kernel or pooling size of the (hidden) convolutional and pooling layers respectively. This also ties in with the size of the features size that will partly determine these sizes. 
+
+It will also be interesting to test whether using features with a similar length will have any impact. Using features with equal feature vector length will enable the CNN to make use its 3-dimensional layers, originally meant for, for example, RGB- or CMYK-images.
+
+\subsection{Changing the Output}
+One big difference of the proposed architectures are the amount of outputs. This is in line with the SbA approach to MSA they implement, however it makes for difficult comparison to other approaches to MSA as does it limit the applicability of these architectures on other music genres with more, less or other segment functions. Although the latter was never the aim of the architectures when creating them, having the possibility of applying these architectures onto other music genres without having to modify them is quite useful. One way to solve this is to create a specific, modified, version of my proposed architectures for each music genre.
+
+The problem of creating a model for multiple music genres at once possibly is a reason why previous work focused on only finding the segment boundaries in piece of music \cite{Grill2015structural}. As discussed earlier, once the segment boundaries are found, another model can then be trained, for each music genre specifically or for all music genres in general, to classify each segment. The architectures I introduced and the insights gained from creating them, can then be used to either improve the boundary detection models, or to create a classification model for many music genres, or the Western Popular Music genre in particular.\\
+
+It would've been interesting to extend the amount of outputs for the architectures I propose to the amount of unique labels occurring in the original data, however I have explained the reason for having a lower output in \autoref{sec:gt_vs_salami}. I will propose solutions to the underlying reasons that cause this 'problem' in \autoref{sec:label_qual}.
+
+\subsection{Real-time MSA}
+One further interesting application of segmentation by annotation models is real time. In the context of this thesis this means that the architectures will run whilst music is playing, and show the predicted segment function of the segment that is currently being played. This may be interesting for, for example, radio DJs to mix songs at the right moment. To accomplish this, the architectures must be made completely independent of the next beats. This means that a new filtering function needs to be created (something I already recommend as relatively high priority follow-up research), and all features need to be constructed from past beats.
+
+
+\section{Future Research MSA}
+Although this thesis focused primarily on the segmentation by annotation approach to music structure analysis, the insights gained may be used beyond this approach. Insights about the inputs, the models and the outputs are obtained. In the next subsections I will explain these insights and discuss their consequences for music structure analysis in general.
+
+\subsection{Data Improvements}
+One of the most important parts of any model driven research is the data. Although in some cases lots of good quality data is provided, one often has to do with data they can find publicly available. Especially within the field of music analysis, this is a quite common problem. This is primarily due to copyright, which prevents someone of listing lots of songs for free. To not enter any grey areas regarding copyright, I explicitly used copyright free, annotated data.
+
+\subsubsection{Audio Quality}
+One major problem of these copyright free audio files were that these primarily consisted of recordings of live concerts. This meant that the recording quality was not that great overall; audio was not normalized over one song (let alone all songs), crowd sounds were present throughout the duration of the songs, etc. 
+
+It has to be seen if this kind of data actually improves models by giving it a bigger challenge, or worsens a model by requiring these models to also make a distinction between actual music and crowd sounds.
+
+One way of solving this problem is already in development at for example Spotify, a music streaming service. They provide an API which can be used to obtain processed audio data. This audio data can not be used to listen to music, but does still contain the auditive features of the song. Creating annotations based on this data means that all music from Spotify may be used, which are millions of songs, together with more metadata that is provided by Spotify (such as the artist, genre or time signature).
+
+\subsubsection{Label Quality}
+\label{sec:label_qual}
+This thesis and \textcite{Jesperthesis} shows the inconsistency between multiple annotations made by different annotators on the same piece of music, and therefore the inherent subjectivity of music structure annotation. This means that if only the annotations of one annotator are taken as ground truth, the models will be overfitted or tuned to the annotation level of that specific annotator. 
+
+Using the annotations of all annotators while creating or adjusting a model may therefore benefit overall accuracy, but may also decrease the accuracy of a model on the annotations of one annotator. This means that a new evaluation method needs to be created to evaluate a model that sort of acts as a new annotator, who may be on an annotation level between the other annotators.
+
+One way to solve this would be to use the hierarchical structure of music to our advantage. \textcite{Grill2015music2} show that using multiple levels of annotations, and therefore using multiple outputs per beat or time step, increased the accuracy of one of these outputs. This further shows that music is inherently hierarchical, and therefore using another level of this hierarchical property will improve the results of models working on another hierarchical level.
+
+Instead of producing the labels for one specific annotation level, a hierarchical tree can be constructed, each branch denoting the boundary of a segment on a certain hierarchical level. This will further complicate model evaluation, since each branch does not have to be on the same hierarchical level \cite{Sun2001hierarchical,Almars2018evaluation}.
+
+Another approach to this problem would be to remove the inconsistency between annotators by jointly determining the annotation of a piece of music, this may be one or multiple annotation levels. Once a true ground truth is established, evaluating new or already existing models will be a lot easier as well will be comparing the performance of multiple models. Although this method has a lot of benefits, it has also quite some downsides. Firstly, it will be quite challenging to jointly create such a consistent labeling. Secondly, subjectivity is a very important part of music experience and therefore removing this part will not always be of benefit in the long term.
+
+\subsection{Interpretable, Comprehensible and Opaque}
+The comparison between the SbA and DSA approach to music structure analysis can not only be seen as a comparison between two approaches to music structure analysis, but also the comparison between a machine learning and more symbolic approach to music structure analysis, especially when taking the current state-of-the-art in consideration. From this comparison more differences, advantages and disadvantages of each approach can be derived.
+
+An important advantage of a more symbolic approach is its interpretability. This means that each step in the process of music structure detection can be understood, explained and reproduced. In contrast to a convolutional neural network which is at best comprehensible. Comprehensible means that the results of each step can understood, but an underlying technique can not be derived. A way of doing this could be to look at the output of each convolutional layer to see which patterns are extracted in each layer. Reproducing the output, without using the weights learned by the network, will be very difficult.
+
+A LSTM model is even worse in this aspect by being opaque. This implies that one has no understanding of the model except for the learned weights and its inputs and outputs. Comprehending what the role of neuron is, is near impossible, creating a symbolic method that imitates the behavior even less possible. 
+
+A consequence of not being able to explain the underlying method of a machine learning model can limit the amount of insights gained from a model that is capable of for example determining the hierarchical structure of all annotations of a piece of music. A more explainable model could therefore be more preferred, even if that means lower absolute accuracy. This is not only a problem within music structure analysis or music information retrieval but in the general field of Artificial Intelligence \cite{Doran2017does}, and is therefore an important factor to take into account when brute forcing machine learning on certain problems within this field.\\
+
+More hybrid models, combining both machine learning and interpretable symbolic aspects, can therefore be the key to good MSA models, explainable AI and true world apperception of intelligent systems.
+
+\null\vfill
+\huge
+$$\sim$$
+\normalsize
+\vfill\vfill

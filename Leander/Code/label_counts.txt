@@ -1,0 +1,26 @@
+#silence - 446
+#intro - 243
+#no_function - 483
+#verse - 718
+#solo - 514
+#interlude - 189
+#transition - 51
+#pre-chorus - 61
+#chorus - 655
+#bridge - 106
+#outro - 132
+#instrumental - 160
+#coda - 48
+#head - 57
+#post-chorus - 24
+#pre-verse - 7
+#theme - 39
+#spoken - 2
+#applause - 12
+#break - 9
+#stage_sounds - 6
+#main theme - 4
+#fade-out - 2
+#voice - 1
+#build - 1
+#crowd_sounds - 1

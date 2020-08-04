@@ -1,0 +1,55 @@
+Chroma:
+  - chroma short time fourier transform (C-STFT):
+    Standard chroma extraction method
+  - chroma energy normalized statistics (CENS):  <--- KEUZE
+    Smooths local deviations in tempo, timbere, etc.
+    Best used for tasks such as audio matching, retrieval and similarity (Shazam)
+Spectogram:
+  - Mel Spectogram:
+    Magnitude Spectogram of music mapped onto the mel scale
+  - Mel Frequency Cepstral Coefficients (MFCC): <-- WSS KEUZE
+    The discrete cosine transform of the log of the mel spectogram
+
+
+CNN:
+  - input:
+    - meerdere channels:
+      - CENS beat-synced -> 12x3 matrix (beat k-1, k en k+1)
+      - MFCC beat-synced -> 20x3 matrix (beat k-1, k en k+1)
+  - convolutional layer per channel
+  - max pooling layer per channel
+  - convolutional layer die de channels combineert
+  - convolutional layer voor input verkleining
+  - dense layer:
+    - optie 1: # In principe optie 1, tenzij resultaten relatief slecht zijn
+      - 6x output nodes: intro, outro, chorus, verse, bridge, solo, ...
+      - softmax activatie
+    - optie 2:
+      - 2x output nodes: "no boundary", "boundary"
+      - softmax activatie
+  - 50% dropout
+  - ADAM optimizer / RMSProp
+  - (R)MSE loss function / 
+      Categorical Cross Entropy als blijkt dat er maar 1 output label mogelijk is per input
+
+Bi-LSTM:
+  - input:
+    - optie 1:
+
+  - 3x feature vectors:
+    MFCC, Tempo, Chroma
+  - concatination of feature vectors
+  - 3x Bi-LSTM layer
+  - max/average pooling
+  - dense layer:
+    - optie 1: # In principe optie 1, tenzij resultaten relatief slecht zijn
+      - 6x output nodes: intro, outro, chorus, verse, bridge, solo, ...
+      - softmax activatie
+    - optie 2:
+      - 2x output nodes: "no boundary", "boundary"
+      - softmax activatie
+  - 
+  - ADAM optimizer / RMSProp
+  - (R)MSE loss function /
+      Categorical Cross Entropy als blijkt dat er maar 1 output label mogelijk is per input
+  

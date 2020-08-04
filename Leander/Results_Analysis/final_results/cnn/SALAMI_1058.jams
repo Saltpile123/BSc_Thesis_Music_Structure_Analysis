@@ -1,0 +1,145 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 17.04344671201814,
+          "value": "silence",
+          "confidence": null
+        },
+        {
+          "time": 17.04344671201814,
+          "duration": 18.06512471655329,
+          "value": "intro",
+          "confidence": null
+        },
+        {
+          "time": 35.10857142857143,
+          "duration": 60.69696145124717,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 95.8055328798186,
+          "duration": 4.458231292516999,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 100.2637641723356,
+          "duration": 26.702947845804985,
+          "value": "bridge",
+          "confidence": null
+        },
+        {
+          "time": 126.96671201814058,
+          "duration": 7.1053061224489795,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 134.07201814058956,
+          "duration": 29.07138321995467,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 163.14340136054423,
+          "duration": 7.198185941043079,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 170.3415873015873,
+          "duration": 28.467664399092968,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 198.80925170068028,
+          "duration": 10.774058956916093,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 209.58331065759637,
+          "duration": 56.65668934240364,
+          "value": "no_function",
+          "confidence": null
+        },
+        {
+          "time": 266.24,
+          "duration": 28.23546485260772,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 294.47546485260773,
+          "duration": 0.4179591836734744,
+          "value": "solo",
+          "confidence": null
+        },
+        {
+          "time": 294.8934240362812,
+          "duration": 6.687346938775477,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 301.5807709750567,
+          "duration": 0.4179591836734744,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 301.99873015873015,
+          "duration": 118.00380952380954,
+          "value": "solo",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": null,
+        "timestamp": "2020/06/06 13:39:32",
+        "annot_beats": false,
+        "feature": "cqt",
+        "framesync": false,
+        "feature_default": null,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 420.0025396825397,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

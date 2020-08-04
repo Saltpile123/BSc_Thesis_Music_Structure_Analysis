@@ -1,0 +1,9 @@
+CNN:
+  training accuracy:  0.9456
+  test accuracy:      0.80
+  1200 accuracy:      0.89
+
+LSTM:
+  training accuracy:  0.8265
+  test accuracy:      0.77
+  1200 accuracy:      0.84

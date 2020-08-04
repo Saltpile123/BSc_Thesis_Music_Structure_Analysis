@@ -1,0 +1,79 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 16.439727891156462,
+          "value": "no_function",
+          "confidence": null
+        },
+        {
+          "time": 16.439727891156462,
+          "duration": 9.287981859410433,
+          "value": "intro",
+          "confidence": null
+        },
+        {
+          "time": 25.727709750566895,
+          "duration": 18.52952380952381,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 44.257233560090704,
+          "duration": 36.87328798185941,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 81.13052154195012,
+          "duration": 17.22920634920635,
+          "value": "chorus",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": null,
+        "timestamp": "2020/06/06 13:39:32",
+        "annot_beats": false,
+        "feature": "cqt",
+        "framesync": false,
+        "feature_default": null,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 98.35972789115647,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

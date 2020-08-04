@@ -1,0 +1,128 @@
+Visualize Keras model:
+Te gebruiken methodes om een keras model te visualizeren
+	- tensorspace
+	- keract
+
+Feature Extraction:
+- Librosa: https://librosa.github.io/librosa/
+	- beat extraction:
+		- uitleg: https://librosa.github.io/librosa/generated/librosa.beat.beat_track.html
+		- paper: http://www.ee.columbia.edu/~dpwe/pubs/Ellis07-beattrack.pdf
+	- features:
+		- uitleg: https://librosa.github.io/librosa/feature.html#spectral-features
+		- chroma (cens):
+			- uitleg: https://librosa.github.io/librosa/generated/librosa.feature.chroma_cens.html
+			- paper: https://s3.amazonaws.com/academia.edu.documents/51198421/2011_MuellerEwert_ChromaToolbox_ISMIR_1_.pdf?response-content-disposition=inline%3B%20filename%3DCHROMA_TOOLBOX_MATLAB_IMPLEMENTATIONS_FO.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BACPIT4ANM%2F20200521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200521T133647Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIGUOFVrmKfU8pnvHQ2pXnzA9TF1%2FMfB6PnVbrm9lhiD%2FAiEA0b301Xjd0Zubein4cF1bbyf5bfmmDxTZDEG6ttJDrLEqtAMILhAAGgwyNTAzMTg4MTEyMDAiDDRUVLIY6PefegxejCqRA58bqrMH%2Bg6ggpa0jSGZqxNnj5zB2e7JXZm2%2BEs6cWYJj%2BW6dKeWRQO1FSNDZmsSIyn0Gjy2rfk3V4m8evtbJNg8KsBJRJwYtvocwjnPgM9KeHsx8OjIzoWmtE52jnhgz33xv10BMY4zJgcq9lacCsU4uEJhScw%2BPt3IubybvuhWxlnBdTP4MvbbUxTIVLKU96HPBOG6bQqg%2Bolw61TU9jYYGzGrkMhEA7xtfEXFyApNnZBOUXQ4cFECM%2Bup3v4K%2F2WaZeBwKRqU%2BPfvaKFiXVBgVniCz6ofh4z8h66ysh%2FMsZF7FeDflLZwI1CpmOgB1RE2Aiie9%2Fmz9qCXmb5wUKD11921cMaQF3r3UqohSm17%2FHK7reS9SItnzRKxojV0k%2FzkTVeNBy3guNxgpVzBr0xqGW2x1BQAS7VUtAeeDck7nWUXLdv16GOPxnNLtiORS1boVzCL2vWtqJMhkHtGze8A3yLqhiMAr73x0CSkjRR8eTsi%2BNYNJXKx28A%2BPFMwtDbJsYu%2F1D7jt%2BYTgjf7%2B9olMLvsmfYFOusBl3LdCvkj7d%2B2NUfST6VpG5yA1T2sj9kZyrvDdpoleOSk0D7TnMjsCY4KMR0rYqMdvHzkoB5OELV3Fzu2vr619sbulVAODNB%2BD8Fjkhc%2FrSLvGy2FQMgpKcSMzBQQCAdWTIiXLHLISc%2BFnEoqBTD8rWpdrkgzxOEZ%2Bk8obLvvijEk6ZFd1A3zznGG0gv5SWyp19eZeUs4Xfixb1qfpNGWusQ6if5o0vrSWQrqb83V0cvSSddgR1KSEnRfdG4L%2Bq147HIjK9X0X22E6anNHrZ5lX2rwC5FjP%2BTrBqDlVutebbbdj5hiLFPMwG%2Bxg%3D%3D&X-Amz-Signature=b5ad56b50c806b4857cb5595bf16f4d8924b9e88f4b140274a90f3aa0cc053f1
+- openSMILE: 
+	- paper: https://www.researchgate.net/publication/224929655_openSMILE_--_The_Munich_Versatile_and_Fast_Open-Source_Audio_Feature_Extractor
+	-	download: https://github.com/naxingyu/opensmile
+
+
+Musical Structure Analysis Algemeen:
+	Ewald Peiszer:
+		"Automatic Audio Segmentation: Segment Boundary and Structure Detection in Popular Music"
+		beschrijving:
+			Beschrijft duidelijk het soort segmenten dat wij ook willen ontdekken,
+			al houd dit paper op bij alleen een hoofdletter aan een segment geven ipv 'chorus', 'verse', etc
+
+	Frédéric Bimbot:
+		"Methodology and Resources for The Structural Segmentation of Music Pieces into Autonomous and Comparable Blocks"
+		beschrijving:
+			Dit paper beschrijft methodologie die gebruikt kan worden voor het maken van 'semiotic structure' op meerdere hierarchische niveaus.
+			Dit paper is meer gefocused op de structuur van de labels en volgorde en presenteerd een stappenplan die lijkt op de machine apperception.
+
+	Namunu C. Maddage:
+		"Automatic Structure Detection for Popular Music":
+		beschrijving:
+			Dit onderzoek probeert chorus/verse/bridge/etc te ontdekken in muziek.
+			-Hierbij wordt eerst beat detection uitgevoerd.
+			-Daarna worden de beats gebruikt om de boundaries te vinden.
+			-Similarity tussen beats wordt gebruikt om de structuur te ontdekken
+			-Tot slot wordt op basis van meest voorkomende structuren in engelse pop muziek bepaald welke volgorde van chorus/verse/etc het waarschijnlijkst is.
+
+
+CNN voor MIR:
+	Jan Schlüter:
+		"Improved musical onset detection with convolutional neural networks"
+		beschrijving:
+			Dit onderzoek gebruikt een CNN om note onset te detecteren.
+			Hierbij worden 3 input channels gebruikt, MFCC's met verschillende window sizes, zodat het netwerk toegang heeft tot patronen op meerdere hierarchische niveau's.
+			De output is 1 neuron die de kans aangeeft dat bij deze input een onset is.
+
+	Tom L.H. Li:
+		"Automatic Musical Pattern Feature Extraction Using Convolutional Neural Network"
+		beschrijving:
+			Gebruik van een CNN om genre van een muziekstuk te bepalen.
+			De CNN heeft als input de MFCC want de auteurs hebben de oa. de volgende hypothese,
+			"The variations of musical patterns is similar to those in images and therefore can be extracted with CNN".
+			Naarmate meer genres bepaald moeten worden, daalt de convergentiesnelheid drastisch, het maakte niet uit welke combinatie van genres werd gebruikt,
+			daarom hypothetiseren de auteurs dat de CNN de data te complex vind om goede patronen te vinden in de eerste lagen van het netwerk.
+			Ook MFCC als enigste feature wordt gezien als niet voldoende
+
+
+Neural Networks voor MIR:
+	Pablo Gimeno:
+		"Multiclass audio segmentaiton based on recurrent neural networks for broadcast domain data"
+		beschrijving:
+			!!! NOG DOEN
+
+	Xu-Kui Yang:
+		"An adapted data selection for deep learning-based audio segmentation in multi-genre broadcast channel"
+		beschrijving:
+			Vergelijkt het gebruik van een Deep Neural Network, Long Short-Term Memory NN en Time Delay Neural Network voor audio segmentatie.
+			Hierbij word ook het gebruik van een 40-dimensionale filterbank versus een combinatie van MFCC met Chroma als input features vergeleken.
+
+	Jaehun Kim:
+		"One deep music representation to rule them all? A comparative analysis of different representation learning strategies"
+		beschrijving:
+			Dit zeer uitgebreide paper presenteerd een uitgebreide studie naar het gebruik van Machine Learning voor MIR.
+			Met name Multi-Task Deep Transfer Learning is hierbij een hoofdonderwerp.
+			MTDTL is het trainen van een model op meerdere taken, waardoor dit model soortgelijke taken ook kan uitvoeren.
+			Een MTDTL model dat in staat is muziek/stem/stilte/etc te classificeren zou bijvoorbeeld ook delen binnen muziek kunnen segmenteren.
+
+	Yixing Guan:
+		"Melodic Phrase Segmentation by Deep Neural Networks"
+		beschijving:
+			Vergelijkt meerdere deep neural netwerk architecturen voor melodic phrase segmentation.
+			Een melodic phrase segment is een groep noten die bij elkaar horen.
+			Dit paper vergelijkt de volgende architecturen; CNN, Bi-LSTM, CNN-CRF, Bi-LSTM-CRF.
+			Omdat ze uitgaan van groepen noten worden midi files gebruikt,
+			maar de architecturen en andere tweaks kunnen gebruikt worden.
+
+
+Hidden Markov Model voor MIR:
+	Mark Brian Sandler (2001):
+		"Segmentation of Musical Signals using Hidden Markov Models"
+		beschrijving:
+			Dit paper vergelijkt het gebruik van Linear Prediction (LP), MFCC en discrete cepstrum (DC) berekent uit de Spectral Envelope,
+			voor het bepalen van delen 'stilte', 'voice + accordion + accompaniment' en 'accordion + accompaniment' in Bourvil's song met behulp van een Hidden Markov Model.
+
+
+MFCC als feature:
+	Beth Logan:
+		"Mel Frequency Cepstral Coefficients for Music Modeling"
+		beschrijving:
+			Dit artikel behandelt het gebruik van MFCC in music modeling, met duidelijke uitleg hoe het werkt
+
+	Sigurdur Sigurdsson:
+		"Mel Frequency Cepstral Coefficients: An Evaluation of Robustness of MP3 Encoded Music"
+		beschrijving:
+			Beschrijft hoe MFCC net zo robuust is op 128 kbit/s MP3 files als op WAV files.
+			Mogelijk te gebruiken als onderbouwing om niet de gedownloade mp3 files eerst te converteren naar wav.
+
+	Jean-Julien Aucouturier:
+		"Improving Timbre Similarity: How high's the sky?"
+		beschrijving:
+			Beschrijft de resultaten van een hoop tests met verschillende parameter waardes voor het maken van MFCC voor music similarity.
+			Dit paper beschrijft hoe MFCC niet volledig de muziek lijkt te bevatten omdat geen van de performances boven de 65% kwam.
+			Dit paper is daarom een goede onderbouwing voor het gebruik van meer dan alleen de MFCC als feature.
+
+
+Statistiek voor Segmentation and Classification:
+	Tong Zhang:
+		"Audio Content Analysis for Online Audiovisual Data Segmentation and Classification"
+		beschrijving:
+			Zeer uitgebreid paper over het gebruik van meerdere features en modellen om eerst audio te segmenteren (ook in real time),
+			om daarna deze audio te classificeren met 'silence', 'speech', 'music'.
+			Dit paper is zeer gedetailleerd en probeert zelfs de 'music' nog verder te classificeren met 'environmental music', 'song', 'speech with music in background'.
+			Verschillende features en waar deze het best gebruikt komen duidelijk aan bod.

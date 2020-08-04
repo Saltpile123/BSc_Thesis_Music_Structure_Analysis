@@ -1,0 +1,187 @@
+\documentclass[12pt]{report} %\documentclass[12pt,twocolumn]{report}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage{nameref}
+\usepackage{amssymb,amsmath, amsthm}
+\usepackage{proof-at-the-end}
+\usepackage{graphicx,color,soul}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+%\usepackage[square,comma,numbers]{natbib}
+\usepackage[style=numeric]{biblatex}
+\usepackage{enumitem}
+\usepackage{appendix}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{14.5pt}
+
+% Definitions
+\theoremstyle{definition}
+\newtheorem{defEnd}{Definition}[section]
+\newtheorem*{defEnd*}{Definition}
+\providecommand*\thmautorefname{Definition}
+\newcommand{\adddeftocontentsline}[2]{\addcontentsline{toc}{subsection}{Definition~\ref{#1}. #2}}
+
+% Research Questions
+\newtheorem{rqEnd}{Research Question}
+\newtheorem*{rqEnd*}{Research Question}
+\providecommand*\thmautorefname{Research Question}
+\newcommand{\addrqtocontentsline}[1]{\addcontentsline{toc}{subsection}{RQ~\ref{#1}}}
+
+% \usepackage[acronym]{glossaries}
+% \makeglossaries
+% \newacronym{sba}{SBA}{Segmentation by Annotation}
+% \newacronym{dsa}{DSA}{Distance-based Segmentation and Annotation}
+% \newacronym{msa}{MSA}{Music Structure Analysis}
+% \newacronym{mir}{MIR}{Music Information Retrieval}
+% \newacronym{aas}{AAS}{Automatic Audio Segmentation}
+
+% Handy Commands
+\newcommand{\sba}{Segmentation by Annotation}
+\newcommand{\dsa}{Distance-based Segmentation and Annotation}
+\newcommand{\msa}{Music Structure Analysis}
+\newcommand{\mir}{Music Information Retrieval}
+\newcommand{\aas}{Automatic Audio Segmentation}
+
+% \newcommand{\sba}{\acrlong{sba}}
+% \newcommand{\dsa}{\acrlong{dsa}}
+% \newcommand{\msa}{\acrlong{msa}}
+% \newcommand{\mir}{\acrlong{mir}}
+% \newcommand{\aas}{\acrlong{aas}}
+
+%\usepackage[bibliography=common,appendix=append]{apxproof}
+
+\usepackage{mathptmx} % Times new Roman
+%\usepackage[a4paper, total={5.4in, 8in}]{geometry}
+\usepackage[a4paper, total={5.4in, 9in}]{geometry}
+
+\addbibresource{literature/literature.bib}
+\addbibresource{literature/rnn_lstm.bib}
+\addbibresource{literature/cnn.bib}
+
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+
+        \Huge
+        \textbf{On Music Structure Analysis}
+
+        \vspace{0.5cm}
+        \LARGE
+        Machine learning implementations of the Segmentation by Annotation approach
+
+        \vspace{1.5cm}
+    \end{center}
+    \large
+    \textit{Author:}\hfill\textit{Supervisor:} \\
+        Leander van Boven\hfill Dr. M.P. (Marijn) Schraagen
+        \begin{flushright}
+            \textit{Second Supervisor:} \\
+            Prof. dr. C.J. (Kees) van Deemter \\
+        \end{flushright}
+
+    \vfill
+    \begin{center}
+        A thesis presented for the degree of\\
+        Bachelor of Science
+
+        \vspace{0.8cm}
+
+        \href{https://www.uu.nl/bachelors/kunstmatige-intelligentie}{\includegraphics[width=0.4\textwidth]{images/uu_logo}}
+    
+        \Large
+        Faculty of Humanities\\
+        University Utrecht\\
+        The Netherlands\\
+        June 2020
+    \end{center}
+\end{titlepage}
+
+\thispagestyle{plain}
+\begin{center}
+    \Large
+    \textbf{On Music Structure Analysis}
+
+    \vspace{0.4cm}
+    \large
+    Machine learning implementations of the Segmentation by Annotation approach
+
+    \vspace{0.4cm}
+    \textbf{Leander van Boven (6215637)}
+
+    \vspace{0.9cm}
+    \textbf{Abstract}
+\end{center}
+\input{chapters/_abstract}
+
+\clearpage
+
+\thispagestyle{empty}
+\null\vfill
+
+\newlength\longest
+\settowidth\longest{\large\itshape The more we think we know about, the greater the unknown}
+\begin{center}
+    \parbox{\longest}{%
+    \raggedright{\large\itshape%
+
+    %More things than are dreamed about, unseen and unexplained\\
+    %We suspend our disbelief, and we are entertained\\
+    The more we think we know about, the greater the unknown\\
+    We suspend our disbelief, and we are not alone\\
+    Mystic rhythms -- capture my thoughts\\
+    Carry them away\dots\\
+    \par\bigskip
+    }   
+    \raggedleft\large\MakeUppercase{Neil Ellwood Peart}\\\small Rush - Mystic Rhythms\par%
+    }
+\end{center}
+
+\vfill\vfill
+
+\clearpage
+
+
+\tableofcontents
+
+\chapter{Introduction}
+\label{ch:intro}
+\input{chapters/1_introduction}
+
+\chapter{Related Work}
+\label{ch:r_work}
+\input{chapters/2_related_work}
+
+\chapter{Methodology}
+\label{ch:method}
+\input{chapters/3_methodology}
+
+\chapter{Experimental Results}
+\label{ch:results}
+\input{chapters/4_results}
+
+\chapter{Discussion}
+\label{ch:discussion}
+\input{chapters/5_conc_disc}
+
+\chapter{Future Research}
+\label{ch:future_research}
+\input{chapters/6_future_research}
+
+%\bibliographystyle{plainnat}
+%\bibliography{literature}
+\printbibliography
+
+\appendix
+\appendixpage
+\addappheadtotoc
+\input{chapters/_appendix}
+
+\end{document}

@@ -1,0 +1,456 @@
+---
+title: "R Tests"
+author: "Leander van Boven - 6215637"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(plotly)
+library(tidyverse)
+library(spotifyr)
+library(compmus)
+
+Sys.setenv(SPOTIFY_CLIENT_ID = '8cf715bc355e4312902967aa5f92e36e')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = 'ddcf3ec1b3b84e78a06475040c34f9ec')
+```
+
+```{r Tidy Audio Analysis2}
+get_tidy_audio_analysis2 <- function(track_uri, ...)
+{
+    spotifyr::get_track_audio_analysis(track_uri, ...) %>%
+        list() %>% purrr::transpose() %>% tibble::as_tibble() %>%
+        dplyr::mutate_at(
+            dplyr::vars(meta, track),
+            . %>% purrr::map(tibble::as_tibble)) %>%
+        tidyr::unnest(cols = c(meta, track)) %>%
+        dplyr::select(
+            analyzer_version,
+            duration,
+            dplyr::contains('fade'),
+            dplyr::ends_with('confidence'),
+            bars:segments) %>%
+        dplyr::mutate_at(
+            dplyr::vars(bars, beats, segments, sections),
+            . %>% purrr::map(dplyr::bind_rows)) %>%
+        dplyr::mutate(
+            segments =
+                purrr::map(
+                    segments,
+                    . %>%
+                        tibble::as_tibble() %>%
+                        dplyr::mutate(
+                            pitches =
+                                purrr::map(
+                                    pitches,
+                                    purrr::set_names,
+                                    c(
+                                        'C', 'C#|Db', 'D', 'D#|Eb',
+                                        'E', 'F', 'F#|Gb', 'G',
+                                        'G#|Ab', 'A', 'A#|Bb', 'B')),
+                            timbre =
+                                purrr::map(
+                                    timbre,
+                                    purrr::set_names,
+                                    c(
+                                        'c01', 'c02', 'c03', 'c04',
+                                        'c05', 'c06', 'c07', 'c08',
+                                        'c09', 'c10', 'c11', 'c12')))))
+}
+```
+
+```{r Tidy Audio Analysis3}
+get_tidy_audio_analysis3 <- function(track_uri, ...)
+{
+    spotifyr::get_track_audio_analysis(track_uri, ...) %>%
+        list() %>% purrr::transpose() %>% tibble::as_tibble() %>%
+        dplyr::mutate_at(
+            dplyr::vars(meta, track),
+            . %>% purrr::map(tibble::as_tibble)) %>%
+        tidyr::unnest(cols = c(meta, track)) %>%
+        dplyr::select(
+            analyzer_version,
+            duration,
+            dplyr::contains('fade'),
+            dplyr::ends_with('confidence'),
+            bars:tatums) %>%
+        dplyr::mutate_at(
+            dplyr::vars(bars, beats, tatums, sections),
+            . %>% purrr::map(dplyr::bind_rows)) %>%
+        dplyr::mutate(
+            segments =
+                purrr::map(
+                    segments,
+                    . %>%
+                        tibble::as_tibble() %>%
+                        dplyr::mutate(
+                            pitches =
+                                purrr::map(
+                                    pitches,
+                                    purrr::set_names,
+                                    c(
+                                        'C', 'C#|Db', 'D', 'D#|Eb',
+                                        'E', 'F', 'F#|Gb', 'G',
+                                        'G#|Ab', 'A', 'A#|Bb', 'B')),
+                            timbre =
+                                purrr::map(
+                                    timbre,
+                                    purrr::set_names,
+                                    c(
+                                        'c01', 'c02', 'c03', 'c04',
+                                        'c05', 'c06', 'c07', 'c08',
+                                        'c09', 'c10', 'c11', 'c12')))))
+}
+```
+
+```{r}
+mrsRobinson_align <-
+  get_tidy_audio_analysis2('0iOZM63lendWRTTeKhZBSC') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+mrsRobinson_SSM <- mrsRobinson_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity mrs Robinson') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+mrsRobinson_SSM
+```
+
+```{r}
+mrsRobinson_align3 <-
+  get_tidy_audio_analysis3('0iOZM63lendWRTTeKhZBSC') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+mrsRobinson_SSM3 <- mrsRobinson_align3 %>% 
+  compmus_self_similarity(timbre, 'euclidean') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity mrs Robinson3') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+mrsRobinson_SSM3
+```
+
+```{r}
+going_up_the_coutry_align <-
+  get_tidy_audio_analysis2('3iltRlox3jEeSKuqdW88EK') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+going_up_the_coutry_SSM <- going_up_the_coutry_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity going up the country') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+going_up_the_coutry_SSM
+```
+
+```{r}
+year2525_align <-
+  get_tidy_audio_analysis3('5UVsbUV0Kh033cqsZ5sLQi') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+year2525_SSM <- year2525_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity in the year 2525') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+year2525_SSM
+```
+
+```{r}
+lake_of_fire_align <-
+  get_tidy_audio_analysis2('0ri3xd7X6jvJQTz9T6IE7l') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+lake_of_fire_SSM <- lake_of_fire_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity Lake of Fire') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+lake_of_fire_SSM
+```
+
+
+```{r}
+peace_in_my_heart_align <-
+  get_tidy_audio_analysis2('5oZzQ1ZMxmJkXlCUDJ22qO') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+peace_in_my_heart_SSM <- peace_in_my_heart_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity just a little bit of peace in my heart') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+peace_in_my_heart_SSM
+```
+
+```{r}
+only_one_woman_align <-
+  get_tidy_audio_analysis2('5JE9FCY8Kyy8IZjhhMriHV') %>% 
+  compmus_align(bars, segments) %>% 
+  select(bars) %>% unnest(bars) %>% 
+  mutate(
+        pitches = 
+            map(segments, 
+                compmus_summarise, pitches, 
+                method = 'rms', norm = 'euclidean')) %>% 
+    mutate(
+        timbre = 
+            map(segments, 
+                compmus_summarise, timbre, 
+                method = 'rms', norm = 'euclidean'))
+
+only_one_woman_SSM <- only_one_woman_align %>% 
+  compmus_self_similarity(timbre, 'cosine') %>% 
+    ggplot(
+        aes(
+            x = xstart + xduration / 2, 
+            width = xduration,
+            y = ystart + yduration / 2,
+            height = yduration,
+            fill = d)) + 
+    ggtitle('Self Similarity only one woman') +
+    geom_tile() +
+    coord_fixed() +
+    scale_fill_viridis_c(option = 'A', guide = 'none') +
+    theme_classic() +
+    labs(x = '', y = '')
+only_one_woman_SSM
+```
+
+```{r}
+mrsRobinson_align %>% 
+  compmus_gather_timbre %>% 
+  ggplot(
+        aes(
+            x = start + duration / 2, 
+            width = duration, 
+            y = basis, 
+            fill = value)) + 
+    ggtitle('Cepstrogram mrs Robinson') +
+    geom_tile() +
+    labs(x = 'Time (s)', y = NULL, fill = 'Magnitude') +
+    scale_fill_viridis_c(option = 'A', limits=c(0, 0.8)) +
+    theme_classic()
+```
+
+```{r}
+year2525_align %>% 
+  compmus_gather_timbre %>% 
+  ggplot(
+        aes(
+            x = start + duration / 2, 
+            width = duration, 
+            y = basis, 
+            fill = value)) + 
+    ggtitle('Cepstrogram year 2525') +
+    geom_tile() +
+    labs(x = 'Time (s)', y = NULL, fill = 'Magnitude') +
+    scale_fill_viridis_c(option = 'A', limits=c(0, 0.8)) +
+    theme_classic()
+```
+
+```{r}
+mrsRobinson_chroma <-
+  get_tidy_audio_analysis3('0iOZM63lendWRTTeKhZBSC') %>% 
+  select(segments) %>% unnest(segments) %>% 
+  select(start, duration, pitches) %>% 
+      mutate(pitches = map(pitches, compmus_normalise, 'euclidean')) %>% 
+    compmus_gather_chroma %>% 
+    ggplot(
+        aes(
+            x = start + duration / 2, 
+            width = duration, 
+            y = pitch_class, 
+            fill = value)) + 
+    geom_tile() +
+    labs(x = 'Time (s)', y = NULL, fill = 'Magnitude') +
+    theme_minimal()
+mrsRobinson_chroma
+```
+
+```{r}
+piece_in_my_heart_ana <- 
+    get_tidy_audio_analysis3('5oZzQ1ZMxmJkXlCUDJ22qO') %>% 
+    select(segments) %>% unnest(segments)
+```
+```{r}
+piece_in_my_heart_novelty <- piece_in_my_heart_ana %>% 
+    mutate(loudness_max_time = start + loudness_max_time) %>% 
+    arrange(loudness_max_time) %>% 
+    mutate(delta_loudness = loudness_max - lag(loudness_max)) %>% 
+    ggplot(aes(x = loudness_max_time, y = pmax(0, delta_loudness))) +
+    geom_line() +
+    xlim(0, 30) +
+    theme_minimal() +
+    labs(x = 'Time (s)', y = 'Novelty')
+piece_in_my_heart_novelty
+```
+```{r}
+piece_in_my_heart_tempo <-
+  get_tidy_audio_analysis2('5oZzQ1ZMxmJkXlCUDJ22qO') %>% 
+  tempogram(window_size = 8, hop_size = 1, cyclic = FALSE) %>% 
+    ggplot(aes(x = time, y = bpm, fill = power)) + 
+    geom_raster() + 
+    scale_fill_viridis_c(guide = 'none') +
+    labs(x = 'Time (s)', y = 'Tempo (BPM)') +
+    theme_classic()
+piece_in_my_heart_tempo
+```
+```{r}
+piece_in_my_heart_tempo_cyclic <-
+  get_tidy_audio_analysis2('5oZzQ1ZMxmJkXlCUDJ22qO') %>% 
+  tempogram(window_size = 8, hop_size = 1, cyclic = TRUE) %>% 
+    ggplot(aes(x = time, y = bpm, fill = power)) + 
+    geom_raster() + 
+    scale_fill_viridis_c(guide = 'none') +
+    labs(x = 'Time (s)', y = 'Tempo (BPM)') +
+    theme_classic()
+piece_in_my_heart_tempo_cyclic
+```
+
+
+```{r}
+xanadu_tempo_cyclic <-
+  get_tidy_audio_analysis2('3THzmYancb8RVehmqItO6G') %>% 
+  tempogram(window_size = 8, hop_size = 1, cyclic = TRUE) %>% 
+    ggplot(aes(x = time, y = bpm, fill = power)) + 
+    geom_raster() + 
+    scale_fill_viridis_c(guide = 'none') +
+    labs(x = 'Time (s)', y = 'Tempo (BPM)') +
+    theme_classic()
+xanadu_tempo_cyclic
+```
+
+
+
+
+
+
+

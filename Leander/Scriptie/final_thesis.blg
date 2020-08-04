@@ -1,0 +1,27 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'final_thesis.blg'
+[153] biber-MSWIN64:322> INFO - === 
+[187] Biber.pm:415> INFO - Reading 'final_thesis.bcf'
+[461] Biber.pm:943> INFO - Found 83 citekeys in bib section 0
+[488] Biber.pm:4256> INFO - Processing section 0
+[489] Utils.pm:75> INFO - Globbing data source 'literature/literature.bib'
+[501] Utils.pm:91> INFO - Globbed data source 'literature/literature.bib' to literature/literature.bib
+[501] Utils.pm:75> INFO - Globbing data source 'literature/rnn_lstm.bib'
+[502] Utils.pm:91> INFO - Globbed data source 'literature/rnn_lstm.bib' to literature/rnn_lstm.bib
+[502] Utils.pm:75> INFO - Globbing data source 'literature/cnn.bib'
+[502] Utils.pm:91> INFO - Globbed data source 'literature/cnn.bib' to literature/cnn.bib
+[528] Biber.pm:4455> INFO - Looking for bibtex format file 'literature/literature.bib' for section 0
+[543] bibtex.pm:1653> INFO - LaTeX decoding ...
+[685] bibtex.pm:1471> INFO - Found BibTeX data source 'literature/literature.bib'
+[1186] Biber.pm:4455> INFO - Looking for bibtex format file 'literature/rnn_lstm.bib' for section 0
+[1200] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1250] bibtex.pm:1471> INFO - Found BibTeX data source 'literature/rnn_lstm.bib'
+[1398] Biber.pm:4455> INFO - Looking for bibtex format file 'literature/cnn.bib' for section 0
+[1412] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1470] bibtex.pm:1471> INFO - Found BibTeX data source 'literature/cnn.bib'
+[2266] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2266] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2266] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[2266] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[2612] bbl.pm:652> INFO - Writing 'final_thesis.bbl' with encoding 'UTF-8'
+[2784] bbl.pm:755> INFO - Output to final_thesis.bbl

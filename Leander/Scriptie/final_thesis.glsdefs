@@ -1,0 +1,120 @@
+\ifglsentryexists{sba}{}%
+{%
+\gls@defglossaryentry{sba}%
+{%
+name={SBA},%
+sort={SBA},%
+type={acronym},%
+first={Segmentation by Annotation\glsspace (SBA)},%
+firstplural={Segmentation by Annotations\glsspace (SBAs)},%
+text={SBA},%
+plural={SBAs},%
+description={Segmentation by Annotation},%
+descriptionplural={Segmentation by Annotation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Segmentation by Annotation},%
+longplural={Segmentation by Annotations},%
+short={SBA},%
+shortplural={SBAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dsa}{}%
+{%
+\gls@defglossaryentry{dsa}%
+{%
+name={DSA},%
+sort={DSA},%
+type={acronym},%
+first={Distance-based Segmentation and Annotation\glsspace (DSA)},%
+firstplural={Distance-based Segmentation and Annotations\glsspace (DSAs)},%
+text={DSA},%
+plural={DSAs},%
+description={Distance-based Segmentation and Annotation},%
+descriptionplural={Distance-based Segmentation and Annotation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Distance-based Segmentation and Annotation},%
+longplural={Distance-based Segmentation and Annotations},%
+short={DSA},%
+shortplural={DSAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{msa}{}%
+{%
+\gls@defglossaryentry{msa}%
+{%
+name={MSA},%
+sort={MSA},%
+type={acronym},%
+first={Music Structure Analysis\glsspace (MSA)},%
+firstplural={Music Structure Analysiss\glsspace (MSAs)},%
+text={MSA},%
+plural={MSAs},%
+description={Music Structure Analysis},%
+descriptionplural={Music Structure Analysis\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Music Structure Analysis},%
+longplural={Music Structure Analysiss},%
+short={MSA},%
+shortplural={MSAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mir}{}%
+{%
+\gls@defglossaryentry{mir}%
+{%
+name={MIR},%
+sort={MIR},%
+type={acronym},%
+first={Music Information Retrieval\glsspace (MIR)},%
+firstplural={Music Information Retrievals\glsspace (MIRs)},%
+text={MIR},%
+plural={MIRs},%
+description={Music Information Retrieval},%
+descriptionplural={Music Information Retrieval\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Music Information Retrieval},%
+longplural={Music Information Retrievals},%
+short={MIR},%
+shortplural={MIRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

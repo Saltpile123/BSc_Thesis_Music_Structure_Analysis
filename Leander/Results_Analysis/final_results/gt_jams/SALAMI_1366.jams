@@ -1,0 +1,97 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 121.57968253968254,
+          "value": "intro",
+          "confidence": null
+        },
+        {
+          "time": 121.57968253968254,
+          "duration": 80.61968253968253,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 202.19936507936507,
+          "duration": 40.68136054421771,
+          "value": "solo",
+          "confidence": null
+        },
+        {
+          "time": 242.88072562358278,
+          "duration": 40.588480725623555,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 283.46920634920633,
+          "duration": 59.53596371882088,
+          "value": "solo",
+          "confidence": null
+        },
+        {
+          "time": 343.0051700680272,
+          "duration": 100.72816326530614,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 443.73333333333335,
+          "duration": 163.00408163265308,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 606.7374149659864,
+          "duration": 44.675192743764114,
+          "value": "chorus",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": null,
+        "timestamp": "2020/06/06 13:39:32",
+        "annot_beats": false,
+        "feature": "cqt",
+        "framesync": false,
+        "feature_default": null,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 651.4126077097505,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

@@ -1,0 +1,2 @@
+Nadeel mijn methode: 
+    -> een herhaling van refrein wordt niet gedetecteerd maar gwn als 1 refrein gezien

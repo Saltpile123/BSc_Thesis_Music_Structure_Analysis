@@ -1,0 +1,1176 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.22)  25 JUN 2020 14:31
+entering extended mode
+**c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/final_thesis.tex
+(c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/final_thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count176
+\Hy@pagecounter=\count177
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count178
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count179
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen136
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip49
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count186
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen139
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip17
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks20
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks21
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks29
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/proof-at-the-end\proof-at-the-end.sty"
+Package: proof-at-the-end 2019/05/21 A package to move proofs in appendix
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thmtools.sty"
+Package: thmtools 2019/12/22 v68
+\thmt@toks=\toks30
+\c@thmt@dummyctr=\count266
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-patch.sty"
+Package: thm-patch 2019/12/22 v68
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\parseargs.sty"
+Package: parseargs 2019/12/22 v68
+\@parsespec=\toks31
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-kv.sty"
+Package: thm-kv 2019/12/22 v68
+Package thm-kv Info: Theorem names will be uppercased on input line 39.
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 155.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-autoref.sty"
+Package: thm-autoref 2019/12/22 v68
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\aliasctr.sty"
+Package: aliasctr 2019/12/22 v68
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-listof.sty"
+Package: thm-listof 2019/12/22 v68
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-restate.sty"
+Package: thm-restate 2019/12/22 v68
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\thm-amsthm.sty"
+Package: thm-amsthm 2019/12/22 v68
+\thmt@style@headstyle=\toks32
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/catchfile\catchfile.sty"
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks35
+))) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty" ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-05-15 L3 programming layer (loader) 
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box47
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count268
+\g__xparse_grabber_int=\count269
+\l__xparse_m_args_int=\count270
+\l__xparse_v_nesting_int=\count271
+))
+\appendwrite=\write3
+\c@counterAllProofEnd=\count272
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks36
+\SOUL@lasttoken=\toks37
+\SOUL@cmds=\toks38
+\SOUL@buffer=\toks39
+\SOUL@token=\toks40
+\SOUL@spaceskip=\skip56
+\SOUL@ttwidth=\dimen150
+\SOUL@uldp=\dimen151
+\SOUL@ulht=\dimen152
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/05/13 3.44 The Babel package
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count273
+\U@D=\dimen153
+\l@babelnohyphens=\language78
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count274
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language72) on input line 108.
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes.sty"
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+\csq@reset=\count275
+\csq@gtype=\count276
+\csq@glevel=\count277
+\csq@qlevel=\count278
+\csq@maxlvl=\count279
+\csq@tshold=\count280
+\csq@ltx@everypar=\toks41
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes.def"
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\csquotes.cfg"
+File: csquotes.cfg 
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+Package caption Info: hyperref package is loaded.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count283
+\c@subtable=\count284
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count285
+\multirow@dima=\skip58
+\bigstrutjot=\dimen161
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count286
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count287
+\c@listtotal=\count288
+\c@listcount=\count289
+\c@liststart=\count290
+\c@liststop=\count291
+\c@citecount=\count292
+\c@citetotal=\count293
+\c@multicitecount=\count294
+\c@multicitetotal=\count295
+\c@instcount=\count296
+\c@maxnames=\count297
+\c@minnames=\count298
+\c@maxitems=\count299
+\c@minitems=\count300
+\c@citecounter=\count301
+\c@maxcitecounter=\count302
+\c@savedcitecounter=\count303
+\c@uniquelist=\count304
+\c@uniquename=\count305
+\c@refsection=\count306
+\c@refsegment=\count307
+\c@maxextratitle=\count308
+\c@maxextratitleyear=\count309
+\c@maxextraname=\count310
+\c@maxextradate=\count311
+\c@maxextraalpha=\count312
+\c@abbrvpenalty=\count313
+\c@highnamepenalty=\count314
+\c@lownamepenalty=\count315
+\c@maxparens=\count316
+\c@parenlevel=\count317
+\blx@tempcnta=\count318
+\blx@tempcntb=\count319
+\blx@tempcntc=\count320
+\blx@maxsection=\count321
+\blx@maxsegment@0=\count322
+\blx@notetype=\count323
+\blx@parenlevel@text=\count324
+\blx@parenlevel@foot=\count325
+\blx@sectionciteorder@0=\count326
+\blx@entrysetcounter=\count327
+\labelnumberwidth=\skip59
+\labelalphawidth=\skip60
+\biblabelsep=\skip61
+\bibitemsep=\skip62
+\bibnamesep=\skip63
+\bibinitsep=\skip64
+\bibparsep=\skip65
+\bibhang=\skip66
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count328
+\c@maxcomprange=\count329
+\c@mincompwidth=\count330
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count331
+\c@savedafterword=\count332
+\c@annotator=\count333
+\c@savedannotator=\count334
+\c@author=\count335
+\c@savedauthor=\count336
+\c@bookauthor=\count337
+\c@savedbookauthor=\count338
+\c@commentator=\count339
+\c@savedcommentator=\count340
+\c@editor=\count341
+\c@savededitor=\count342
+\c@editora=\count343
+\c@savededitora=\count344
+\c@editorb=\count345
+\c@savededitorb=\count346
+\c@editorc=\count347
+\c@savededitorc=\count348
+\c@foreword=\count349
+\c@savedforeword=\count350
+\c@holder=\count351
+\c@savedholder=\count352
+\c@introduction=\count353
+\c@savedintroduction=\count354
+\c@namea=\count355
+\c@savednamea=\count356
+\c@nameb=\count357
+\c@savednameb=\count358
+\c@namec=\count359
+\c@savednamec=\count360
+\c@translator=\count361
+\c@savedtranslator=\count362
+\c@shortauthor=\count363
+\c@savedshortauthor=\count364
+\c@shorteditor=\count365
+\c@savedshorteditor=\count366
+\c@labelname=\count367
+\c@savedlabelname=\count368
+\c@institution=\count369
+\c@savedinstitution=\count370
+\c@lista=\count371
+\c@savedlista=\count372
+\c@listb=\count373
+\c@savedlistb=\count374
+\c@listc=\count375
+\c@savedlistc=\count376
+\c@listd=\count377
+\c@savedlistd=\count378
+\c@liste=\count379
+\c@savedliste=\count380
+\c@listf=\count381
+\c@savedlistf=\count382
+\c@location=\count383
+\c@savedlocation=\count384
+\c@organization=\count385
+\c@savedorganization=\count386
+\c@origlocation=\count387
+\c@savedoriglocation=\count388
+\c@origpublisher=\count389
+\c@savedorigpublisher=\count390
+\c@publisher=\count391
+\c@savedpublisher=\count392
+\c@language=\count393
+\c@savedlanguage=\count394
+\c@origlanguage=\count395
+\c@savedoriglanguage=\count396
+\c@pageref=\count397
+\c@savedpageref=\count398
+\shorthandwidth=\skip67
+\shortjournalwidth=\skip68
+\shortserieswidth=\skip69
+\shorttitlewidth=\skip70
+\shortauthorwidth=\skip71
+\shorteditorwidth=\skip72
+\locallabelnumberwidth=\skip73
+\locallabelalphawidth=\skip74
+\localshorthandwidth=\skip75
+\localshortjournalwidth=\skip76
+\localshortserieswidth=\skip77
+\localshorttitlewidth=\skip78
+\localshortauthorwidth=\skip79
+\localshorteditorwidth=\skip80
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count399
+\c@textcitetotal=\count400
+\c@textcitemaxnames=\count401
+\c@biburlbigbreakpenalty=\count402
+\c@biburlbreakpenalty=\count403
+\c@biburlnumpenalty=\count404
+\c@biburlucpenalty=\count405
+\c@biburllcpenalty=\count406
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count407
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count408
+\c@bbx:relatedtotal=\count409
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+)) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip81
+\enit@outerparindent=\dimen162
+\enit@toks=\toks42
+\enit@inbox=\box48
+\enit@count@id=\count410
+\enitdp@description=\count411
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/appendix\appendix.sty"
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count412
+\c@@ppsavesec=\count413
+\c@@ppsaveapp=\count414
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip82
+\f@nch@O@elh=\skip83
+\f@nch@O@erh=\skip84
+\f@nch@O@olh=\skip85
+\f@nch@O@orh=\skip86
+\f@nch@O@elf=\skip87
+\f@nch@O@erf=\skip88
+\f@nch@O@olf=\skip89
+\f@nch@O@orf=\skip90
+)
+\c@defEnd=\count415
+\c@rqEnd=\count416
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\mathptmx.sty"
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count417
+\Gm@cntv=\count418
+\c@Gm@tempcnt=\count419
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks43
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux)
+\openout1 = `final_thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 67.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 67.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out) (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out)
+\@outlinefile=\write5
+\openout5 = `final_thesis.out'.
+
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count420
+\scratchdimen=\dimen171
+\scratchbox=\box50
+\nofMPsegments=\count421
+\nofMParguments=\count422
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count423
+\MPscratchDim=\dimen172
+\MPnumerator=\count424
+\makeMPintoPDFobject=\count425
+\everyMPtoPDFconversion=\toks45
+) ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `final_thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'final_thesis.bbl' found.
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(103.62515pt, 390.25755pt, 103.62517pt)
+* v-part:(T,H,B)=(77.84674pt, 650.43pt, 116.77011pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=390.25755pt
+* \textheight=650.43pt
+* \oddsidemargin=31.35516pt
+* \evensidemargin=31.35516pt
+* \topmargin=-33.92325pt
+* \headheight=14.5pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/uu_logo.png, id=264, 1204.5pt x 1204.5pt>
+File: images/uu_logo.png Graphic file (type png)
+<use images/uu_logo.png>
+Package pdftex.def Info: images/uu_logo.png  used on input line 97.
+(pdftex.def)             Requested size: 156.10063pt x 156.09425pt.
+[1
+
+{C:/Users/leand/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/uu_logo.png>] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/_abstract.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--123
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.124 \clearpage
+                 [1]
+\longest=\skip91
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 144.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 144.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 144.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 144.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 144.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 144.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 144.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 144.
+ [2
+
+] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.toc [3
+
+
+])
+\tf@toc=\write6
+\openout6 = `final_thesis.toc'.
+
+ [4]
+Chapter 1.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/1_introduction.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+\openout3 = `pratenddef.tex'.
+
+Package hyperref Info: bookmark level for unknown defEnd defaults to 0 on input line 15.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex)
+\openout3 = `pratenddef.tex'.
+
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex)
+\openout3 = `pratenddef.tex'.
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 38.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [5
+
+] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex)
+\openout3 = `pratenddef.tex'.
+
+<images/music_structures_examples.png, id=390, 1263.21938pt x 259.7203pt>
+File: images/music_structures_examples.png Graphic file (type png)
+<use images/music_structures_examples.png>
+Package pdftex.def Info: images/music_structures_examples.png  used on input line 44.
+(pdftex.def)             Requested size: 390.25755pt x 80.23901pt.
+ [6 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/music_structures_examples.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 73.
+
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex)
+\openout3 = `pratenddef.tex'.
+
+ [7] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex)
+\openout3 = `pratenddef.tex'.
+
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 95.
+
+\openout3 = `pratendrq.tex'.
+
+Package hyperref Info: bookmark level for unknown rqEnd defaults to 0 on input line 99.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex)
+\openout3 = `pratendrq.tex'.
+
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex)
+\openout3 = `pratendrq.tex'.
+
+ [8] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex)
+\openout3 = `pratendrq.tex'.
+
+) [9]
+Chapter 2.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/2_related_work.tex
+<images/broadcast_classification.png, id=435, 828.84656pt x 598.48593pt>
+File: images/broadcast_classification.png Graphic file (type png)
+<use images/broadcast_classification.png>
+Package pdftex.def Info: images/broadcast_classification.png  used on input line 10.
+(pdftex.def)             Requested size: 195.12877pt x 140.89078pt.
+ [10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+<images/fully_rnn.png, id=459, 2133.9725pt x 711.65875pt>
+File: images/fully_rnn.png Graphic file (type png)
+<use images/fully_rnn.png>
+Package pdftex.def Info: images/fully_rnn.png  used on input line 28.
+(pdftex.def)             Requested size: 390.25755pt x 130.1454pt.
+[11 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/broadcast_classification.png>]
+Overfull \hbox (3.09914pt too wide) in paragraph at lines 34--35
+\T1/ptm/m/n/12 has to be per-formed over time, this is called back-propagation through time (BPTT)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<images/b-lstm.png, id=484, 746.03719pt x 348.55219pt>
+File: images/b-lstm.png Graphic file (type png)
+<use images/b-lstm.png>
+Package pdftex.def Info: images/b-lstm.png  used on input line 39.
+(pdftex.def)             Requested size: 390.25755pt x 182.32782pt.
+[12 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/fully_rnn.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[13 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/b-lstm.png>] [14]
+<images/cnn_example.png, id=537, 1192.455pt x 318.43968pt>
+File: images/cnn_example.png Graphic file (type png)
+<use images/cnn_example.png>
+Package pdftex.def Info: images/cnn_example.png  used on input line 72.
+(pdftex.def)             Requested size: 390.25755pt x 104.21565pt.
+<images/onset_detection_cnn.png, id=538, 1166.85938pt x 398.23781pt>
+File: images/onset_detection_cnn.png Graphic file (type png)
+<use images/onset_detection_cnn.png>
+Package pdftex.def Info: images/onset_detection_cnn.png  used on input line 80.
+(pdftex.def)             Requested size: 390.25755pt x 133.18716pt.
+ [15 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/cnn_example.png>] [16 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/onset_detection_cnn.png>]
+<images/ssm.png, id=579, 195.129pt x 193.6836pt>
+File: images/ssm.png Graphic file (type png)
+<use images/ssm.png>
+Package pdftex.def Info: images/ssm.png  used on input line 110.
+(pdftex.def)             Requested size: 195.12877pt x 193.68605pt.
+ [17]
+<images/checkerboard.png, id=591, 195.129pt x 193.6836pt>
+File: images/checkerboard.png Graphic file (type png)
+<use images/checkerboard.png>
+Package pdftex.def Info: images/checkerboard.png  used on input line 125.
+(pdftex.def)             Requested size: 195.12851pt x 193.6831pt.
+<images/gaussian_checkerboard.pdf, id=592, 195.129pt x 193.68361pt>
+File: images/gaussian_checkerboard.pdf Graphic file (type pdf)
+<use images/gaussian_checkerboard.pdf>
+Package pdftex.def Info: images/gaussian_checkerboard.pdf  used on input line 131.
+(pdftex.def)             Requested size: 195.12851pt x 193.68312pt.
+ [18 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/ssm.png>] [19 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/checkerboard.png> <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/gaussian_checkerboard.pdf>]
+<images/fusion_examples_cnn.png, id=637, 1236.11812pt x 380.92313pt>
+File: images/fusion_examples_cnn.png Graphic file (type png)
+<use images/fusion_examples_cnn.png>
+Package pdftex.def Info: images/fusion_examples_cnn.png  used on input line 158.
+(pdftex.def)             Requested size: 390.25755pt x 120.25877pt.
+ [20 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/fusion_examples_cnn.png>]
+<images/cqt_cens.png, id=667, 679.78969pt x 584.93532pt>
+File: images/cqt_cens.png Graphic file (type png)
+<use images/cqt_cens.png>
+Package pdftex.def Info: images/cqt_cens.png  used on input line 186.
+(pdftex.def)             Requested size: 390.25755pt x 335.79967pt.
+ [21] [22 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/cqt_cens.png>]
+<images/mls_mfcc.png, id=688, 685.8122pt x 587.94656pt>
+File: images/mls_mfcc.png Graphic file (type png)
+<use images/mls_mfcc.png>
+Package pdftex.def Info: images/mls_mfcc.png  used on input line 203.
+(pdftex.def)             Requested size: 390.25755pt x 334.5768pt.
+ [23 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/mls_mfcc.png>]
+<images/tempogrammi.png, id=703, 499.8675pt x 494.59781pt>
+File: images/tempogrammi.png Graphic file (type png)
+<use images/tempogrammi.png>
+Package pdftex.def Info: images/tempogrammi.png  used on input line 220.
+(pdftex.def)             Requested size: 390.25755pt x 386.15453pt.
+ [24]) [25 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/tempogrammi.png>]
+Chapter 3.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/3_methodology.tex [26
+
+] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/label_grouping.tex
+Overfull \hbox (1.7672pt too wide) in paragraph at lines 3--33
+ [][] 
+ []
+
+) [27] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/feature_sizes.tex) [28] [29]
+<images/cnn_architecture.png, id=770, 1609.01125pt x 851.18pt>
+File: images/cnn_architecture.png Graphic file (type png)
+<use images/cnn_architecture.png>
+Package pdftex.def Info: images/cnn_architecture.png  used on input line 62.
+(pdftex.def)             Requested size: 390.25755pt x 206.44336pt.
+ [30 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/cnn_architecture.png>]
+<images/lstm_architecture_single.png, id=781, 1144.275pt x 739.76375pt>
+File: images/lstm_architecture_single.png Graphic file (type png)
+<use images/lstm_architecture_single.png>
+Package pdftex.def Info: images/lstm_architecture_single.png  used on input line 81.
+(pdftex.def)             Requested size: 351.2294pt x 227.06682pt.
+<images/lstm_architecture_multi.png, id=782, 1144.275pt x 851.18pt>
+File: images/lstm_architecture_multi.png Graphic file (type png)
+<use images/lstm_architecture_multi.png>
+Package pdftex.def Info: images/lstm_architecture_multi.png  used on input line 88.
+(pdftex.def)             Requested size: 351.2294pt x 261.26547pt.
+) [31] [32] [33 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/lstm_architecture_single.png> <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/lstm_architecture_multi.png>]
+Chapter 4.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/4_results.tex (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/initial_hyperparams.tex) [34
+
+]
+<images/relu_elu-wide.png, id=815, 1204.5pt x 803.0pt>
+File: images/relu_elu-wide.png Graphic file (type png)
+<use images/relu_elu-wide.png>
+Package pdftex.def Info: images/relu_elu-wide.png  used on input line 18.
+(pdftex.def)             Requested size: 312.20723pt x 208.13792pt.
+ [35 <c:/_HELP_ME_PLS/_SCRIPTIE/bachelor-scriptie-musical-sctructure-analysis/Leander/Scriptie/images/relu_elu-wide.png>] [36] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/initial_features_combos.tex) [37]
+Overfull \hbox (4.94293pt too wide) in paragraph at lines 53--54
+[]\T1/ptm/m/n/12 One ma-chine, con-tain-ing an AMD Ryzen 7 3700x CPU and a NVIDIA GeForce
+ []
+
+[38] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/final_features_combos.tex) (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/final_hyperparamers.tex) [39] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/parameter_analysis.tex) [40] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/final_results.tex [41]) (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/cnn_1200.tex
+Overfull \hbox (4.28812pt too wide) in paragraph at lines 3--42
+ [][] 
+ []
+
+) (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables/lstm_1200.tex
+Overfull \hbox (4.28812pt too wide) in paragraph at lines 3--42
+ [][] 
+ []
+
+) [42]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+[43]) [44] [45] [46]
+Chapter 5.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/5_conc_disc.tex [47
+
+]
+Overfull \hbox (5.25877pt too wide) in paragraph at lines 17--18
+\T1/ptm/m/n/12 SALAMI ground truth. When look-ing at the F-measures of the mod-els on SALAMI
+ []
+
+
+Overfull \hbox (4.6709pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/12 The most im-por-tant rea-son is the amount of unique la-bels oc-cur-ring in the SALAMI
+ []
+
+[48] [49] [50]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+) [51]
+Chapter 6.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/6_future_research.tex [52
+
+] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[54] [55]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[56]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+) [57]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 180.
+ ("C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [58
+
+]
+Overfull \hbox (6.30505pt too wide) in paragraph at lines 181--181
+[]\T1/ptm/m/n/12 Jeffrey El-man.   Find-ing struc-ture in time. In: \T1/ptm/m/it/12 Cog-ni-tive sci-ence \T1/ptm/m/n/12 14.2 (1990),
+ []
+
+
+Overfull \hbox (4.44669pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 Expo. ICME2000. Pro-ceed-ings. Lat-est Ad-vances in the Fast Chang-ing World
+ []
+
+[59]
+Overfull \hbox (6.83463pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 Eu-ro-pean Sig-nal Pro-cess-ing Con-fer-ence (EU-SIPCO)\T1/ptm/m/n/12 . IEEE. 2015, pp. 1296
+ []
+
+
+Overfull \hbox (1.13264pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 ceed-ings of 16th In-ter-na-tional So-ci-ety for Mu-sic In-for-ma-tion Re-trieval Con-
+ []
+
+
+Overfull \hbox (16.32986pt too wide) in paragraph at lines 181--181
+[]\T1/ptm/m/n/12 Geoffrey Hin-ton et al.   Im-prov-ing neu-ral net-works by pre-vent-ing co-adaptation
+ []
+
+[60]
+Overfull \hbox (3.49025pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 ments on the Distance-based Seg-men-ta-tion and An-no-ta-tion Ap-proach\T1/ptm/m/n/12 . Bach-
+ []
+
+[61]
+Overfull \hbox (14.01215pt too wide) in paragraph at lines 181--181
+[]\T1/ptm/m/n/12 Yorgos Pat-sis and Werner Ver-helst.   A speech/music/silence/garbage/classifier
+ []
+
+
+Overfull \hbox (9.99922pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/n/12 au-dio streams. In: \T1/ptm/m/it/12 2007 IEEE In-ter-na-tional Con-fer-ence on Acous-tics, Speech
+ []
+
+[62]
+Overfull \hbox (2.21259pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/n/12 mem-ory re-cur-rent neu-ral net-work ar-chi-tec-tures for large scale acous-tic mod-
+ []
+
+
+Overfull \hbox (8.9369pt too wide) in paragraph at lines 181--181
+[]\T1/ptm/m/n/12 Mike Schus-ter and Kuldip Pali-wal.   Bidi-rec-tional re-cur-rent neu-ral net-works.
+ []
+
+
+Overfull \hbox (1.13264pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 ceed-ings of 15th In-ter-na-tional So-ci-ety for Mu-sic In-for-ma-tion Re-trieval Con-
+ []
+
+[63]
+Overfull \hbox (7.38953pt too wide) in paragraph at lines 181--181
+\T1/ptm/m/it/12 2010 In-ter-na-tional Con-fer-ence on Elec-tri-cal and Con-trol En-gi-neer-ing\T1/ptm/m/n/12 . IEEE.
+ []
+
+[64] [65
+
+] (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters/_appendix.tex
+Appendix A.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex [66
+
+]) [67]
+Appendix B.
+(c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex) [68
+
+]
+Appendix C.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+ [69
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+ (c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package rerunfilecheck Info: File `final_thesis.out' has not changed.
+(rerunfilecheck)             Checksum: AE1A1F9FAE468D851565AD778306713E;4256.
+Package logreq Info: Writing requests to 'final_thesis.run.xml'.
+\openout1 = `final_thesis.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+ ) 
+Here is how much of TeX's memory you used:
+ 19858 strings out of 480799
+ 364422 string characters out of 2895784
+ 1051561 words of memory out of 3000000
+ 35107 multiletter control sequences out of 15000+200000
+ 619613 words of font info for 150 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,16n,73p,1505b,2837s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\leand\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk>{C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/leand/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on c:/_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.pdf (70 pages, 1749264 bytes).
+PDF statistics:
+ 1225 PDF objects out of 1440 (max. 8388607)
+ 317 named destinations out of 1000 (max. 500000)
+ 611 words of extra memory for PDF output out of 10000 (max. 10000000)
+

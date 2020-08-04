@@ -1,0 +1,50 @@
+% \begin{table}[t]    
+%     \begin{tabular}{lll}
+%                       & CNN    & LSTM   \\
+%     Training Accuracy & 0.9456 & 0.8265 \\
+%     Test Accuracy     & 0.80   & 0.77   \\
+%     1200 Accuracy     & 0.89   & 0.84  
+%     \end{tabular}
+%     \label{tab:final_results}
+% \end{table}
+
+%%%%%%%%%%%%%%%%%%
+% Too wide table %
+%%%%%%%%%%%%%%%%%%
+% \begin{table}[t]
+%     \centering
+%     \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|}
+%     \hline
+%     \multirow{2}{*}{}              & \multicolumn{2}{l|}{\textbf{Beat Classification Accuracy}} & \multirow{2}{*}{} & \multicolumn{2}{l|}{\textbf{\begin{tabular}[c]{@{}l@{}}All songs own\\ ground truth\end{tabular}}} & \multicolumn{2}{l|}{\textbf{\begin{tabular}[c]{@{}l@{}}All songs SALAMI\\ ground truth\end{tabular}}} & \multicolumn{2}{l|}{\textbf{\begin{tabular}[c]{@{}l@{}}SALAMI song-id 1200 own\\ ground truth\end{tabular}}} & \multicolumn{2}{l|}{\textbf{\begin{tabular}[c]{@{}l@{}}SALAMI song-id 1200 SALAMI\\ ground truth\end{tabular}}} \\ \cline{2-3} \cline{5-12} 
+%                                    & Training data                 & Test data                  &                   & Non-Trimmed                                        & Trimmed                                       & Non-Trimmed                                         & Trimmed                                         & Non-Trimmed                                             & Trimmed                                            & Non-Trimmed                                              & Trimmed                                              \\ \hline
+%     \multirow{2}{*}{\textbf{CNN}}  & \multirow{2}{*}{0.9456}       & \multirow{2}{*}{0.80}      & 0.5F              & 0.6849                                             & 0.5627                                        & 0.1451                                              & 0.0374                                          & 0.6087                                                  & 0.5261                                             & 0.55                                                     & 0.48                                                 \\ \cline{4-12} 
+%                                    &                               &                            & 3F                & 0.8545                                             & 0.7935                                        & 0.3397                                              & 0.1960                                          & 0.9565                                                  & 0.9474                                             & 0.69                                                     & 0.64                                                 \\ \hline
+%     \multirow{2}{*}{\textbf{LSTM}} & \multirow{2}{*}{0.8265}       & \multirow{2}{*}{0.77}      & 0.5F              & 0.4526                                             & 0.3003                                        & 0.1474                                              & 0.0581                                          & 0.3846                                                  & 0.2727                                             & 0.38                                                     & 0.29                                                 \\ \cline{4-12} 
+%                                    &                               &                            & 3F                & 0.6141                                             & 0.5065                                        & 0.3487                                              & 0.2296                                          & 0.6923                                                  & 0.6364                                             & 0.56                                                     & 0.50                                                 \\ \hline
+%     \end{tabular}
+%     \caption{Final Results}
+%     \label{tab:final_results}
+% \end{table}
+
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[t]
+    \centering
+    \begin{tabular}{|l|l||l|l|l|l|}
+    \hline
+                                                                                             \textbf{Dataset} & \textbf{Measure} & \multicolumn{2}{l|}{\textbf{CNN}} & \multicolumn{2}{l|}{\textbf{LSTM}} \\ \hline\hline
+    \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}Beat Classification \\ Accuracy\end{tabular}}}            & Training data & \multicolumn{2}{l|}{0.9456}       & \multicolumn{2}{l|}{0.8265}        \\ \cline{2-6} 
+                                                                                                                 & Test data     & \multicolumn{2}{l|}{0.80}         & \multicolumn{2}{l|}{0.77}          \\ \hline\hline
+    \multicolumn{2}{|l|}{}                                                                                                       & \textbf{0.5F}   & \textbf{3F}     & \textbf{0.5F}    & \textbf{3F}     \\ \hline
+    \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}All songs \\ own ground truth\end{tabular}}}              & Untrimmed   & 0.6849          & 0.8545          & 0.4526           & 0.6141          \\ \cline{2-6} 
+                                                                                                                 & Trimmed       & 0.5627          & 0.7935          & 0.3003           & 0.5065          \\ \hline
+    \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}All songs \\ SALAMI ground truth\end{tabular}}}           & Untrimmed   & 0.1451          & 0.3397          & 0.1474           & 0.3487          \\ \cline{2-6} 
+                                                                                                                 & Trimmed       & 0.0374          & 0.1960          & 0.0581           & 0.2296          \\ \hline
+    \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}SALAMI song-id 1200 \\ own ground truth\end{tabular}}}    & Untrimmed   & 0.6087          & 0.9565          & 0.3846           & 0.6923          \\ \cline{2-6} 
+                                                                                                                 & Trimmed       & 0.5261          & 0.9474          & 0.2727           & 0.6364          \\ \hline
+    \multirow{2}{*}{\textbf{\begin{tabular}[c]{@{}l@{}}SALAMI song-id 1200 \\ SALAMI ground truth\end{tabular}}} & Untrimmed   & 0.55            & 0.69            & 0.38             & 0.56            \\ \cline{2-6} 
+                                                                                                                 & Trimmed       & 0.48            & 0.64            & 0.29             & 0.50            \\ \hline
+    \end{tabular}
+    \caption{An overview of the final CNN and LSTM model evaluated on multiple datasets. The training- and testset accuracy is evaluated using Keras. The F-measures on SALAMI 1200 (custom and original ground truth) as well as the F-measures on the full SALAMI dataset (custom and original ground truth) are calculated using the MSAF. In all cases the same CNN or LSTM model were used, these are the ones trained on the custom ground truth (9 unique output labels).} 
+    \label{tab:final_results}
+\end{table}

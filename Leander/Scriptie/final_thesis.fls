@@ -1,0 +1,571 @@
+PWD c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.log
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\proof-at-the-end\proof-at-the-end.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\proof-at-the-end\proof-at-the-end.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thmtools.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thmtools.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-patch.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-patch.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\parseargs.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\parseargs.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-kv.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-kv.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-autoref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-autoref.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\aliasctr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\aliasctr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-listof.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-listof.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-restate.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-restate.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-amsthm.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\thmtools\thm-amsthm.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\catchfile\catchfile.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\catchfile\catchfile.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.pdf
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.bcf
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.bbl
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.bbl
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.bbl
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\uu_logo.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\uu_logo.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\uu_logo.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\uu_logo.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\uu_logo.png
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\_abstract.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\_abstract.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.toc
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.toc
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.toc
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmro8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmro8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmro8r.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\1_introduction.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\1_introduction.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\music_structures_examples.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\music_structures_examples.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\music_structures_examples.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\music_structures_examples.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\music_structures_examples.png
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8c.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\2_related_work.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\2_related_work.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\broadcast_classification.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\broadcast_classification.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\broadcast_classification.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\broadcast_classification.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\broadcast_classification.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fully_rnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fully_rnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fully_rnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fully_rnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fully_rnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\b-lstm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\b-lstm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\b-lstm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\b-lstm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\b-lstm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_example.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_example.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_example.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_example.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_example.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\onset_detection_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\onset_detection_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\onset_detection_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\onset_detection_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\onset_detection_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\ssm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\ssm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\ssm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\ssm.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\ssm.png
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\zptmcm7m.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\psyro.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\zptmcm7y.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\checkerboard.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\checkerboard.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\checkerboard.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\checkerboard.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\checkerboard.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\gaussian_checkerboard.pdf
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\gaussian_checkerboard.pdf
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\gaussian_checkerboard.pdf
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\gaussian_checkerboard.pdf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\zptmcm7t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\zptmcm7v.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fusion_examples_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fusion_examples_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fusion_examples_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fusion_examples_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\fusion_examples_cnn.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cqt_cens.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cqt_cens.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cqt_cens.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cqt_cens.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cqt_cens.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\mls_mfcc.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\mls_mfcc.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\mls_mfcc.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\mls_mfcc.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\mls_mfcc.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\tempogrammi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\tempogrammi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\tempogrammi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\tempogrammi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\tempogrammi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\3_methodology.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\3_methodology.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\label_grouping.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\label_grouping.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\feature_sizes.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\feature_sizes.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_architecture.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_architecture.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_architecture.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_architecture.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\cnn_architecture.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_single.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_single.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_single.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_single.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_single.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_multi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_multi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_multi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_multi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\lstm_architecture_multi.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\4_results.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\4_results.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\initial_hyperparams.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\initial_hyperparams.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\relu_elu-wide.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\relu_elu-wide.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\relu_elu-wide.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\relu_elu-wide.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\images\relu_elu-wide.png
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\initial_features_combos.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\initial_features_combos.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_features_combos.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_features_combos.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_hyperparamers.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_hyperparamers.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\parameter_analysis.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\parameter_analysis.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_results.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\final_results.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\cnn_1200.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\cnn_1200.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\lstm_1200.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\tables\lstm_1200.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\5_conc_disc.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\5_conc_disc.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\6_future_research.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\6_future_research.tex
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\zptmcm7y.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc8t.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1200.tfm
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc8t.vf
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\_appendix.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\chapters\_appendix.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratenddef.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\pratendrq.tex
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.aux
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.out
+INPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.run.xml
+OUTPUT c:\_HELP_ME_PLS\_SCRIPTIE\bachelor-scriptie-musical-sctructure-analysis\Leander\Scriptie\final_thesis.run.xml
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\leand\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\leand\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb

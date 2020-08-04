@@ -1,0 +1,14 @@
+Onset:
+1. Automatic musical pattern feature extraction using convolutional neural networks (Li, march 2010)
+2. Online real-time onset detection with recurrent neural networks (Böck, sep 2012)
+3. Musical onset detection with convolutional neural networks (Schlüter, 2013)
+4. Improved musical onset detection with convolutional neural networks (Schlüter, 2014)
+
+Boundary:
+1. Boundary detection in music structure analysis using convolutional neural networks (2014)
+2. Music boundary detection using neural networks on spectrograms and self-similarity lag matrices (2015)
+3. Music boundary detection using neural networks on combined features and two-level annotations (2015)
+4. Structural segmentation with convolutional neural networks mirex submission (2015)
+
+
+

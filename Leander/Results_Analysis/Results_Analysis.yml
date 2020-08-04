@@ -1,0 +1,36 @@
+Results Analysis:
+  CNN:
+    Neurons:
+      128:  37/267  in top 70 (0.139) <--
+      256:  18/250  in top 70 (0.072)
+      512:  15/218  in top 70 (0.069)
+
+    Activation: !! TO BE TESTED !! (only 'relu' tested so far)
+
+    Optimizer: Adam, others can be tested on best 3 final models
+
+    Drop Out: No direct difference
+      0.1:  27/316  in top 70 (0.085)
+      0.25: 28/232  in top 70 (0.121) <--
+      0.5:  15/187  in top 70 (0.080)
+
+    Pooling: Max best, but test average too
+      none: 0/242   in top 70 (0.000)
+      max:  43/259  in top 70 (0.166) <--
+      avg:  27/234  in top 70 (0.115)
+
+    Epochs: The more the better
+      10:   0/255   in top 70 (0.000)
+      50:   20/244  in top 70 (0.082)  
+      100:  50/236  in top 70 (0.212) <--
+
+    Batch Size: The more the better
+      10:   2/249   in top 70 (0.008)
+      50:   27/245  in top 70 (0.110)
+      100:  41/241  in top 70 (0.170) <--
+
+    Feature Combo: Tempogram leading (biggest feature), cqt big impact too
+      all:  15/132  in top 70 (0.114)
+      c+t:  37/202  in top 70 (0.183) <--
+      c+m:  0/201   in top 70 (0.000)
+      cmt:  18/200  in top 70 (0.090)

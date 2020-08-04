@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Ink
+.vscode/
+.vscode/settings.json
+settings.json

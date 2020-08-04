@@ -1,0 +1,65 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Musical Structure}{chapter.1}% 2
+\BOOKMARK [2][-]{section*.2}{Definition 1.1.1. Musical Structure}{section.1.1}% 3
+\BOOKMARK [2][-]{defEnd.1.1.1}{Definition 1.1.2. Segment}{section.1.1}% 4
+\BOOKMARK [2][-]{defEnd.1.1.2}{Definition 1.1.3. Segment Function}{section.1.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Applications}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{Relevance to AI}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{SbA vs DSA}{chapter.1}% 8
+\BOOKMARK [2][-]{section*.4}{Definition 1.3.1. Segmentation by Annotation}{section.1.3}% 9
+\BOOKMARK [2][-]{defEnd.1.3.1}{Definition 1.3.2. Distance-based Segmentation and Annotation}{section.1.3}% 10
+\BOOKMARK [1][-]{section.1.4}{Combined Research}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.5}{Research Questions}{chapter.1}% 12
+\BOOKMARK [2][-]{section*.5}{RQ 1}{section.1.5}% 13
+\BOOKMARK [2][-]{rqEnd.1}{RQ 2}{section.1.5}% 14
+\BOOKMARK [2][-]{rqEnd.2}{RQ 3}{section.1.5}% 15
+\BOOKMARK [1][-]{section.1.6}{Outline}{chapter.1}% 16
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 17
+\BOOKMARK [1][-]{section.2.1}{ML in MIR}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.1.1}{ML for AAS}{section.2.1}% 19
+\BOOKMARK [1][-]{section.2.2}{CNN in MIR}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.1}{CNN for onset detection}{section.2.2}% 21
+\BOOKMARK [1][-]{section.2.3}{MSA}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.3.1}{DSA approach to MSA}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.2}{Current State-of-the-Art}{section.2.3}% 24
+\BOOKMARK [1][-]{section.2.4}{SALAMI Dataset}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.5}{Acoustic Features}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.5.1}{Chroma}{section.2.5}% 27
+\BOOKMARK [2][-]{subsection.2.5.2}{Timbre}{section.2.5}% 28
+\BOOKMARK [0][-]{chapter.3}{Methodology}{}% 29
+\BOOKMARK [1][-]{section.3.1}{The Data}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.2}{Feature Selection}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.3}{Proposed Architectures}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.3.1}{Preserving Temporal Aspect of Music}{section.3.3}% 33
+\BOOKMARK [2][-]{subsection.3.3.2}{CNN}{section.3.3}% 34
+\BOOKMARK [2][-]{subsection.3.3.3}{Bi-LSTM}{section.3.3}% 35
+\BOOKMARK [0][-]{chapter.4}{Experimental Results}{}% 36
+\BOOKMARK [1][-]{section.4.1}{Evaluation Method}{chapter.4}% 37
+\BOOKMARK [2][-]{subsection.4.1.1}{The Hyperparameters}{section.4.1}% 38
+\BOOKMARK [1][-]{section.4.2}{Initial Test}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.2.1}{Initial Test Setup}{section.4.2}% 40
+\BOOKMARK [2][-]{subsection.4.2.2}{Initial Test Results}{section.4.2}% 41
+\BOOKMARK [2][-]{subsection.4.2.3}{Adjustments}{section.4.2}% 42
+\BOOKMARK [1][-]{section.4.3}{Final Results}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.3.1}{Best performing CNN and LSTM models}{section.4.3}% 44
+\BOOKMARK [0][-]{chapter.5}{Discussion}{}% 45
+\BOOKMARK [1][-]{section.5.1}{Results Evaluation}{chapter.5}% 46
+\BOOKMARK [2][-]{subsection.5.1.1}{Segment Boundary Detection Accuracy}{section.5.1}% 47
+\BOOKMARK [2][-]{subsection.5.1.2}{Own GT. vs SALAMI GT.}{section.5.1}% 48
+\BOOKMARK [1][-]{section.5.2}{Model Comparison}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{CNN versus LSTM}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{SbA versus DSA}{section.5.2}% 51
+\BOOKMARK [0][-]{chapter.6}{Future Research}{}% 52
+\BOOKMARK [1][-]{section.6.1}{Model improvements}{chapter.6}% 53
+\BOOKMARK [2][-]{subsection.6.1.1}{Hyperparameters and Layout}{section.6.1}% 54
+\BOOKMARK [2][-]{subsection.6.1.2}{Input Features}{section.6.1}% 55
+\BOOKMARK [2][-]{subsection.6.1.3}{Architecture Specific Research}{section.6.1}% 56
+\BOOKMARK [2][-]{subsection.6.1.4}{Changing the Output}{section.6.1}% 57
+\BOOKMARK [2][-]{subsection.6.1.5}{Real-time MSA}{section.6.1}% 58
+\BOOKMARK [1][-]{section.6.2}{Future Research MSA}{chapter.6}% 59
+\BOOKMARK [2][-]{subsection.6.2.1}{Data Improvements}{section.6.2}% 60
+\BOOKMARK [2][-]{subsection.6.2.2}{Interpretable, Comprehensible and Opaque}{section.6.2}% 61
+\BOOKMARK [0][-]{section*.67}{Appendices}{}% 62
+\BOOKMARK [0][-]{appendix.A}{Definitions}{}% 63
+\BOOKMARK [0][-]{appendix.B}{Research Questions}{}% 64
+\BOOKMARK [0][-]{appendix.C}{Dataset}{}% 65

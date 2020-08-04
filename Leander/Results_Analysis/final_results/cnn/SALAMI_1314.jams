@@ -1,0 +1,85 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 30.83609977324263,
+          "value": "intro",
+          "confidence": null
+        },
+        {
+          "time": 30.83609977324263,
+          "duration": 29.860861678004532,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 60.69696145124716,
+          "duration": 35.10857142857144,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 95.8055328798186,
+          "duration": 29.257142857142853,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 125.06267573696145,
+          "duration": 36.03736961451246,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 161.1000453514739,
+          "duration": 30.928979591836736,
+          "value": "bridge",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": null,
+        "timestamp": "2020/06/06 13:39:32",
+        "annot_beats": false,
+        "feature": "cqt",
+        "framesync": false,
+        "feature_default": null,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 192.02902494331065,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

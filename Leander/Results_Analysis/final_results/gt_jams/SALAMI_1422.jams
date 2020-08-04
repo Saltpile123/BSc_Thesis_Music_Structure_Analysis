@@ -1,0 +1,91 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "MSAF"
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 31.114739229024945,
+          "value": "intro",
+          "confidence": null
+        },
+        {
+          "time": 31.114739229024945,
+          "duration": 60.74340136054421,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 91.85814058956916,
+          "duration": 30.278820861678,
+          "value": "interlude",
+          "confidence": null
+        },
+        {
+          "time": 122.13696145124716,
+          "duration": 30.371700680272127,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 152.5086621315193,
+          "duration": 30.464580498866212,
+          "value": "chorus",
+          "confidence": null
+        },
+        {
+          "time": 182.9732426303855,
+          "duration": 30.60390022675736,
+          "value": "verse",
+          "confidence": null
+        },
+        {
+          "time": 213.57714285714286,
+          "duration": 4.179591836734687,
+          "value": "chorus",
+          "confidence": null
+        }
+      ],
+      "sandbox": {
+        "boundaries_id": "sf",
+        "labels_id": null,
+        "timestamp": "2020/06/06 13:39:32",
+        "annot_beats": false,
+        "feature": "cqt",
+        "framesync": false,
+        "feature_default": null,
+        "M_gaussian": 27,
+        "m_embedded": 3,
+        "k_nearest": 0.04,
+        "Mp_adaptive": 28,
+        "offset_thres": 0.05,
+        "bound_norm_feats": Infinity,
+        "hier": false
+      },
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 217.75673469387755,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
