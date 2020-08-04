@@ -1,2 +1,4 @@
-# Bachelor Scriptie Musical Sctructure Analysis
+# Bachelors Thesis Music Structure Analysis
+
+Check "Final Thesis.pdf"
 
